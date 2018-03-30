@@ -15,9 +15,9 @@
 
     <EditText
         android:textColor="#fff"
+        android:textColorHint="#fff"
         android:layout_width="300dp"
         android:layout_height="60dp"
-        android:textColorHint="#fff"
         android:hint="UserName"
         android:background="@drawable/edittextstyle"
         android:layout_marginLeft="16dp"
